@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA.Waiter.Common", "CA.Wait
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA.Cook.Common", "CA.Cook.Common\CA.Cook.Common.csproj", "{8ED7C922-F62A-46D0-A655-FA94E93210D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA.Common", "CA.Common\CA.Common.csproj", "{CA9F873B-40B9-4BD6-B9F6-F2491B672B1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8ED7C922-F62A-46D0-A655-FA94E93210D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ED7C922-F62A-46D0-A655-FA94E93210D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ED7C922-F62A-46D0-A655-FA94E93210D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9F873B-40B9-4BD6-B9F6-F2491B672B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9F873B-40B9-4BD6-B9F6-F2491B672B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9F873B-40B9-4BD6-B9F6-F2491B672B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9F873B-40B9-4BD6-B9F6-F2491B672B1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

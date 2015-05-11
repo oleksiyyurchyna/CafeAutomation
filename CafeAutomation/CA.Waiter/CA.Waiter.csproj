@@ -97,6 +97,10 @@
     <Folder Include="ViewModel\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CA.Common\CA.Common.csproj">
+      <Project>{ca9f873b-40b9-4bd6-b9f6-f2491b672b1a}</Project>
+      <Name>CA.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CA.Waiter.Common\CA.Waiter.Common.csproj">
       <Project>{ab961fe3-b8ac-4e0e-b5b7-45c37ac2717b}</Project>
       <Name>CA.Waiter.Common</Name>

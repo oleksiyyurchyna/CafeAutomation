@@ -52,6 +52,10 @@
       <Project>{3abe7a9c-ca2f-4c79-8d2e-031a2c6d2bed}</Project>
       <Name>CA.Client.Common</Name>
     </ProjectReference>
+    <ProjectReference Include="..\CA.Common\CA.Common.csproj">
+      <Project>{ca9f873b-40b9-4bd6-b9f6-f2491b672b1a}</Project>
+      <Name>CA.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CA.Cook.Common\CA.Cook.Common.csproj">
       <Project>{8ed7c922-f62a-46d0-a655-fa94e93210d7}</Project>
       <Name>CA.Cook.Common</Name>
