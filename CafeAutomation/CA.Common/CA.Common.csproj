@@ -39,8 +39,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Enum\LoginResultEnum.cs" />
+    <Compile Include="Enum\PaymentStatus.cs" />
+    <Compile Include="Enum\PreparingStatus.cs" />
+    <Compile Include="LoginResult.cs" />
+    <Compile Include="Model\Bill.cs" />
+    <Compile Include="Model\Client.cs" />
+    <Compile Include="Model\CreditCardInfo.cs" />
+    <Compile Include="Model\Dish.cs" />
+    <Compile Include="Model\Man.cs" />
+    <Compile Include="Model\Order.cs" />
+    <Compile Include="Model\OrderDish.cs" />
+    <Compile Include="Model\Waiter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
