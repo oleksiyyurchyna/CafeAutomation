@@ -1,0 +1,14 @@
+*.pdb
+*.exe
+*/bin/*
+CafeAutomation/CA.Waiter/bin/
+CafeAutomation/CA.Client/obj/
+CafeAutomation/CA.Waiter/obj/
+CafeAutomation/CA.Client/bin/Debug/CafeAutomation.exe.config
+CafeAutomation/CA.Client/bin/
+*.suo
+CafeAutomation/CA.Cook/obj/
+CafeAutomation/CA.System/obj/
+CafeAutomation/CA.Waiter.Common/obj/
+CafeAutomation/CA.Cook.Common/obj/
+CafeAutomation/CA.Client.Common/obj/
